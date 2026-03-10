@@ -20,12 +20,14 @@ The application follows the **CavemanAI** philosophy: high-intelligence capabili
 ### **Installation**
 
 1. Ensure you have Python 3.12+ installed.  
-2. Install the required dependencies:  
-     
-   Bash  
-   pip install PySide6 requests beautifulsoup4  
-3. Place your branding asset (`Snagger.jpeg`) in the same directory as the script.  
-4. Launch the application:  
+2. Install the required dependencies:
+   
+    bash
+    pip install -r requirements.txt  
+    
+4. Place your branding asset (`Snagger.jpeg`) in the same directory as the script.  
+5. Launch the application:
+   
    Bash  
    python CaveSnagger.py
 
