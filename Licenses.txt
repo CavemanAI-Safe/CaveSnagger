@@ -1,0 +1,63 @@
+﻿========================================================================
+CAVESNAGGER | ACKNOWLEDGEMENTS & OPEN SOURCE LICENSES
+========================================================================
+
+
+This application, CaveSnagger, is built upon a foundation of incredible 
+open-source technologies. In the spirit of the AI Revolution, we 
+gratefully acknowledge the following contributors:
+
+
+------------------------------------------------------------------------
+1. PySide6 (Qt for Python)
+------------------------------------------------------------------------
+License: GNU Lesser General Public License (LGPL) v3
+Copyright: © 2024 The Qt Company Ltd.
+Usage: Core Graphical User Interface (GUI) framework.
+Notice: This software uses the PySide6 libraries. Under the LGPL, you 
+are permitted to use these libraries without being required to share 
+your own proprietary source code.
+
+
+------------------------------------------------------------------------
+2. Python 3.12
+------------------------------------------------------------------------
+License: Python Software Foundation (PSF) License Agreement
+Copyright: © 2001-2024 Python Software Foundation; All Rights Reserved.
+Usage: The primary programming language and runtime environment.
+
+
+------------------------------------------------------------------------
+3. Requests: HTTP for Humans
+------------------------------------------------------------------------
+License: Apache License 2.0
+Copyright: © 2023 Kenneth Reitz.
+Usage: Used for the digital scouring of the arXiv research silk.
+
+
+------------------------------------------------------------------------
+4. Beautiful Soup 4
+------------------------------------------------------------------------
+License: MIT License
+Copyright: © 2004-2024 Leonard Richardson.
+Usage: Used for parsing research data and acquisition metadata.
+
+
+------------------------------------------------------------------------
+5. Pillow (PIL Fork)
+------------------------------------------------------------------------
+License: HPND (Historical Permission Notice and Disclaimer)
+Copyright: © 2010-2024 by Jeffrey A. Clark and contributors.
+Usage: Utilized in the automated generation of the Snagger icon stacks.
+
+
+------------------------------------------------------------------------
+DISCLAIMER OF WARRANTY
+------------------------------------------------------------------------
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS "AS IS" AND ANY 
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE 
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR 
+PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR 
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, 
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES.
+========================================================================
